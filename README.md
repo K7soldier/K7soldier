@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K7soldier
 - 👀 I’m interested in ... write mobile code
-- 🌱 I’m currently learning ...java and  python
+- 🌱 I’m currently learning ...java and  kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
